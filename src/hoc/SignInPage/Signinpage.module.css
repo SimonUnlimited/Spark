@@ -1,0 +1,25 @@
+.signin {
+    display:inline-block;
+}
+
+.wrapper {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     /* add this to contain floated children */
+}
+.first {
+    height: 100%;
+    width: 100%;
+}
+.second {
+    height: 100%;
+    width: 100%;
+    /* add this */
+    
+}
+
+.border{
+    border: 1px solid red;
+}
